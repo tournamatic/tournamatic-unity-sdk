@@ -1,0 +1,5 @@
+C:\Code\Adaplex\Tournamatic\Sdk\Unity\tournamatic-unity-sdk\Assets\Plugins\Tournamatic.dll
+C:\Code\Adaplex\Tournamatic\Sdk\Unity\tournamatic-unity-sdk\Assets\Plugins\Tournamatic.pdb
+C:\Code\Adaplex\Tournamatic\Sdk\Unity\tournamatic-unity-sdk\Tournamatic\obj\Debug\Tournamatic.csprojResolveAssemblyReference.cache
+C:\Code\Adaplex\Tournamatic\Sdk\Unity\tournamatic-unity-sdk\Tournamatic\obj\Debug\Tournamatic.dll
+C:\Code\Adaplex\Tournamatic\Sdk\Unity\tournamatic-unity-sdk\Tournamatic\obj\Debug\Tournamatic.pdb
